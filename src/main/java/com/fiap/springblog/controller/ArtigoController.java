@@ -1,3 +1,10 @@
+/**
+ * Autor: Jorge Doria
+ * Data: 01/08/2023
+ * Hora: 15h
+ * Objetivo: Criar um controlador REST para o projeto
+ */
+
 package com.fiap.springblog.controller;
 
 import com.fiap.springblog.model.*;
